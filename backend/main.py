@@ -12,7 +12,7 @@ import os, requests
 
 MODEL_PATH = "osteoporosis_risk_model_final.keras"
 # Replace this with your actual Google Drive direct-download link
-MODEL_URL = MODEL_URL = "https://huggingface.co/Saj2005/OsteoAI/resolve/main/osteoporosis_risk_model_final.keras"
+MODEL_URL = "https://drive.google.com/uc?export=download&id=1RpmhMlotW1GfTzgVneNyJC8HhkgOfqs0"
 
 def download_model():
     if not os.path.exists(MODEL_PATH):
