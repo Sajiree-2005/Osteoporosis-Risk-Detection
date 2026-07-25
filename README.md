@@ -263,7 +263,7 @@ Interactive API docs (Swagger UI): [osteoai-backend.onrender.com/docs](https://o
 ### 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/swaradadeshpande/Osteoporosis-Risk-Detection-System.git
+git clone https://github.com/Sajiree-2005/Osteoporosis-Risk-Detection-System.git
 cd Osteoporosis-Risk-Detection-System
 ```
 
