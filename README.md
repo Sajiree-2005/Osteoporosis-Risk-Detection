@@ -30,6 +30,8 @@
 
 > **Note:** The Render free tier spins down after 15 minutes of inactivity. The first request after idle may take ~30 seconds to wake up — this is expected.
 
+My contribution: Designed and implemented the model architecture — EfficientNetV2S + tabular MLP fusion, Focal Loss for class imbalance, and the Grad-CAM explainability layer. Built as part of a 4-person team (Team InnoQueens); full-stack integration (FastAPI backend, React frontend, deployment) was a shared team effort.
+
 ---
 
 ## 📋 Table of Contents
